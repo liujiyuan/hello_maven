@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hello_maven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hello_maven_jar</output-path>
+    <root id="archive" name="hello_maven.jar">
+      <element id="module-output" name="hello_maven" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
